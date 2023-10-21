@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.84431aac.css",
-    "main.js": "/static/js/main.11f05bd8.js",
+    "main.css": "/static/css/main.ffed0eb6.css",
+    "main.js": "/static/js/main.000160e8.js",
     "static/js/787.6dc3e799.chunk.js": "/static/js/787.6dc3e799.chunk.js",
     "static/media/strayfarm.png": "/static/media/strayfarm.06c5c187435d576f739e.png",
     "index.html": "/index.html",
-    "main.84431aac.css.map": "/static/css/main.84431aac.css.map",
-    "main.11f05bd8.js.map": "/static/js/main.11f05bd8.js.map",
+    "main.ffed0eb6.css.map": "/static/css/main.ffed0eb6.css.map",
+    "main.000160e8.js.map": "/static/js/main.000160e8.js.map",
     "787.6dc3e799.chunk.js.map": "/static/js/787.6dc3e799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84431aac.css",
-    "static/js/main.11f05bd8.js"
+    "static/css/main.ffed0eb6.css",
+    "static/js/main.000160e8.js"
   ]
 }
