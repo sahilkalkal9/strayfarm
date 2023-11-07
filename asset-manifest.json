@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.19d14b4e.css",
-    "main.js": "/static/js/main.a9f5747b.js",
+    "main.css": "/static/css/main.d5222c8e.css",
+    "main.js": "/static/js/main.e2aebcdf.js",
     "static/js/787.6dc3e799.chunk.js": "/static/js/787.6dc3e799.chunk.js",
     "static/media/qr1.png": "/static/media/qr1.349b9daedf66e80275bf.png",
     "static/media/strayfarm.png": "/static/media/strayfarm.06c5c187435d576f739e.png",
     "static/media/qr2.png": "/static/media/qr2.adf6e3c29eb190656ba6.png",
     "static/media/qr3.png": "/static/media/qr3.8b150d52706b8389a733.png",
     "index.html": "/index.html",
-    "main.19d14b4e.css.map": "/static/css/main.19d14b4e.css.map",
-    "main.a9f5747b.js.map": "/static/js/main.a9f5747b.js.map",
+    "main.d5222c8e.css.map": "/static/css/main.d5222c8e.css.map",
+    "main.e2aebcdf.js.map": "/static/js/main.e2aebcdf.js.map",
     "787.6dc3e799.chunk.js.map": "/static/js/787.6dc3e799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19d14b4e.css",
-    "static/js/main.a9f5747b.js"
+    "static/css/main.d5222c8e.css",
+    "static/js/main.e2aebcdf.js"
   ]
 }
