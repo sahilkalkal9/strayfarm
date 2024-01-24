@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b28eb32.css",
-    "main.js": "/static/js/main.cc8c2225.js",
+    "main.css": "/static/css/main.1f212d29.css",
+    "main.js": "/static/js/main.d872acef.js",
     "static/js/787.6dc3e799.chunk.js": "/static/js/787.6dc3e799.chunk.js",
     "static/media/qr4s.png": "/static/media/qr4s.ea5e882718e25092f0c1.png",
     "static/media/qr3s.png": "/static/media/qr3s.4ab81fca133c8aebe610.png",
@@ -9,16 +9,17 @@
     "static/media/qr2s.png": "/static/media/qr2s.30318f0ef3fd69650e75.png",
     "static/media/strayfarm.png": "/static/media/strayfarm.06c5c187435d576f739e.png",
     "static/media/ig.png": "/static/media/ig.b4ff9be06a8f84fada1b.png",
+    "static/media/dog.webp": "/static/media/dog.07a450b816d5f3ead801.webp",
     "static/media/dis.png": "/static/media/dis.5f588023b4a79c2857df.png",
     "static/media/email.png": "/static/media/email.67bda94140af311d041f.png",
     "static/media/pc.png": "/static/media/pc.788adb5ad58479e1e384.png",
     "index.html": "/index.html",
-    "main.6b28eb32.css.map": "/static/css/main.6b28eb32.css.map",
-    "main.cc8c2225.js.map": "/static/js/main.cc8c2225.js.map",
+    "main.1f212d29.css.map": "/static/css/main.1f212d29.css.map",
+    "main.d872acef.js.map": "/static/js/main.d872acef.js.map",
     "787.6dc3e799.chunk.js.map": "/static/js/787.6dc3e799.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b28eb32.css",
-    "static/js/main.cc8c2225.js"
+    "static/css/main.1f212d29.css",
+    "static/js/main.d872acef.js"
   ]
 }
