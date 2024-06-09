@@ -9,12 +9,12 @@ function Blogs() {
                 </p> */}
                 <div className="welcome-box">
                     <p className="welcome">
-                        Blogs (Under Development)
+                        Blogs
                     </p>
                 </div>
                 <p className="content-box">
                     <p className="home-content" >
-                        <b>Stray Farm</b> is a stray animal rescue shelter and an awareness organization located in New Delhi, India. We started this organization on <b>8th March 2022</b> and the main source of inspiration was Peepal Farm. We wanted to help every stray animal in any way we could.
+                        Welcome to our blog page, featuring facts about animal suffering, rescue techniques, and informative articles about animal welfare.
                     </p>
 
                     <div className="home-content">
