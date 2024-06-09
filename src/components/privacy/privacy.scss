@@ -1,0 +1,103 @@
+.privacy-head {
+    font-size: 40px;
+    font-weight: 500;
+    font-family: bree serif;
+    color: #2c3941;
+}
+
+.privacy-tags {
+    font-weight: 500;
+}
+
+.privacy-tag {
+    font-weight: 500;
+}
+
+
+@media screen and (max-width:900px) {
+    .privacy-head {
+        font-size: 40px;
+    }
+
+    .privacy-tag {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .privacy-head {
+        font-size: 35px;
+    }
+
+    .privacy-tag {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .privacy-head {
+        font-size: 32px;
+    }
+
+    .privacy-tag {
+        font-size: 20px;
+    }
+
+    .privacy-tags {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .privacy-head {
+        font-size: 27px;
+    }
+
+    .privacy-tag {
+        font-size: 18px;
+    }
+
+    .privacy-tags {
+        font-size: 20px;
+    }
+
+    .privacy-text {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .privacy-head {
+        font-size: 25px;
+    }
+
+    .privacy-tag {
+        font-size: 18px;
+    }
+
+    .privacy-tags {
+        font-size: 20px;
+    }
+
+    .privacy-text {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .privacy-head {
+        font-size: 22px;
+    }
+
+    .privacy-tag {
+        font-size: 17px;
+    }
+
+    .privacy-tags {
+        font-size: 20px;
+    }
+
+    .privacy-text {
+        font-size: 13px;
+    }
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "index": 1,
+        "name": "Digital Thermometer",
+        "use": "Checks your dog’s temperature rectally.",
+        "instructions": "Lubricate the thermometer, insert it gently into the dog’s rectum, and wait for the reading."
+    },
+    {
+        "index": 2,
+        "name": "Tweezers",
+        "use": "Removes ticks, splinters, or debris from wounds.",
+        "instructions": "Disinfect the tweezers before use. Grip the tick close to the skin and pull it out steadily."
+    },
+    {
+        "index": 3,
+        "name": "Scissors (Blunt-ended)",
+        "use": "Cuts bandages or fur around wounds.",
+        "instructions": "Use carefully to avoid cutting the skin. Clean and disinfect after each use."
+    },
+    {
+        "index": 4,
+        "name": "Bandage Materials",
+        "use": "Covers and protects wounds.",
+        "instructions": "Apply a non-stick pad over the wound, wrap with roll gauze, and secure with adhesive tape. Ensure the bandage is snug but not too tight."
+    },
+    {
+        "index": 5,
+        "name": "Muzzle",
+        "use": "Prevents biting when the dog is in pain or scared.",
+        "instructions": "Use a well-fitting muzzle. Only use when necessary and never leave the dog unattended with a muzzle on."
+    },
+    {
+        "index": 6,
+        "name": "Leash",
+        "use": "Controls and restrains your dog if necessary.",
+        "instructions": "Use to safely restrain the dog during emergencies or transportation."
+    },
+    {
+        "index": 7,
+        "name": "Cold Pack",
+        "use": "Reduces swelling and inflammation.",
+        "instructions": "Wrap in a cloth and apply to the affected area for short periods, typically 10-15 minutes at a time."
+    },
+    {
+        "index": 8,
+        "name": "Warm Pack",
+        "use": "Applies heat to sore muscles or joints.",
+        "instructions": "Wrap in a cloth and apply to the affected area for short periods. Ensure it's not too hot to avoid burns."
+    },
+    {
+        "index": 9,
+        "name": "Latex or Rubber Gloves",
+        "use": "Maintains hygiene when handling wounds.",
+        "instructions": "Wear gloves to prevent contamination. Dispose of gloves properly after use."
+    },
+    {
+        "index": 10,
+        "name": "Syringe or Eyedropper",
+        "use": "Administers oral medications or fluids.",
+        "instructions": "Use to administer precise amounts of liquid medications or fluids. Clean thoroughly after each use."
+    },
+    {
+        "index": 11,
+        "name": "Tick Remover Tool",
+        "use": "Safely removes ticks without leaving parts behind.",
+        "instructions": "Place the tool around the tick, close to the skin, and pull gently but steadily until the tick releases."
+    },
+    {
+        "index": 12,
+        "name": "Flashlight",
+        "use": "Provides better visibility of injuries, especially in low light.",
+        "instructions": "Keep batteries fresh and replace as needed."
+    },
+    {
+        "index": 13,
+        "name": "Pet First Aid Manual",
+        "use": "Provides quick reference on handling different emergencies.",
+        "instructions": "Keep the manual accessible and familiarize yourself with its content."
+    },
+    {
+        "index": 14,
+        "name": "Blanket",
+        "use": "Keeps your dog warm in case of shock or serves as a stretcher.",
+        "instructions": "Use to cover your dog or to move them safely if they cannot walk."
+    }
+]

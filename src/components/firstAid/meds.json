@@ -1,0 +1,72 @@
+[
+    {
+        "index": 1,
+        "name": "Hydrogen Peroxide (3%)",
+        "use": "Induces vomiting in cases of poisoning, but only under veterinary guidance.",
+        "dosage": "1 teaspoon per 10 pounds of body weight, not to exceed 3 tablespoons.",
+        "instructions": "Use only if instructed by a vet, as inducing vomiting can sometimes cause more harm depending on the substance ingested."
+    },
+    {
+        "index": 2,
+        "name": "Betadine (Povidone-Iodine) Ointment",
+        "use": "Treats minor cuts, wounds, or skin infections.",
+        "dosage": "N/A",
+        "instructions": "Apply a small amount to the affected area 1-3 times daily. Prevent the dog from licking the area."
+    },
+    {
+        "index": 3,
+        "name": "Antiseptic Wipes",
+        "use": "Cleans wounds and prevents infections.",
+        "dosage": "N/A",
+        "instructions": "Gently clean the area around the wound, avoiding the wound itself initially. Use as needed."
+    },
+    {
+        "index": 4,
+        "name": "Avil (Pheniramine Maleate)",
+        "use": "Addresses allergic reactions, bites, or stings.",
+        "dosage": "1 mg per pound of body weight.",
+        "instructions": "Administer orally, but confirm the exact dosage and use with your veterinarian beforehand."
+    },
+    {
+        "index": 5,
+        "name": "Activated Charcoal Tablets (Carbophos)",
+        "use": "Absorbs toxins in cases of poisoning.",
+        "dosage": "Follow the vet’s specific instructions.",
+        "instructions": "Administer as directed by a vet, typically mixed with a small amount of water."
+    },
+    {
+        "index": 6,
+        "name": "Saline Solution (Normal Saline)",
+        "use": "Rinses out wounds, eyes, or flushes out debris.",
+        "dosage": "N/A",
+        "instructions": "Flush the affected area gently with the solution. Use sterile saline to prevent further contamination."
+    },
+    {
+        "index": 7,
+        "name": "Meloxicam (Metacam)",
+        "use": "Provides pain relief.",
+        "dosage": "As prescribed by a veterinarian.",
+        "instructions": "Use only medications prescribed by your veterinarian. Follow the prescribed dosage strictly."
+    },
+    {
+        "index": 8,
+        "name": "Electral (Electrolyte Powder)",
+        "use": "Prevents dehydration.",
+        "dosage": "As per instructions on the packet.",
+        "instructions": "Mix the powder with water as per instructions and offer small amounts frequently to the dog. Consult a vet for exact administration advice."
+    },
+    {
+        "index": 9,
+        "name": "Styptic Powder (Kwik Stop)",
+        "use": "Stops minor bleeding from nails or small cuts.",
+        "dosage": "N/A",
+        "instructions": "Apply directly to the bleeding area. Apply pressure if necessary to stop the bleeding."
+    },
+    {
+        "index": 10,
+        "name": "Otibiotic Ear Drops",
+        "use": "Cleans and maintains ear hygiene.",
+        "dosage": "As directed by a veterinarian.",
+        "instructions": "Apply a few drops into the ear canal and gently massage the base of the ear. Wipe away any excess solution."
+    }
+]
