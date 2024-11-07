@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="google-adsense-account" content="ca-pub-7803765097593193">
+  <link rel="icon" href="%PUBLIC_URL%/sf.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="A Non-Profit Organiztion" />
+  <meta name="google-site-verification" content="D8eZngxeDSdLwU3mmk5djs7vwBV-M6GouBfQT73vt8I" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/sf.png" />
+
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  
+  <title>Stray Farm</title>
+  <link
+    href='https://fonts.googleapis.com/css?family=Tilt+Neon|Lumanosimo|Sanchez|Sarabun|Kalam|Raleway|Fira+Sans|Roboto|Dancing+Script|Changa|Titillium+Web&display=swap'
+    rel="stylesheet" />
+</head>
+
+<body>
+  <noscript>Stray Farm - A Non-Profit Organiztion</noscript>
+  <div id="root"></div>
+
+  <script type="text/javascript">
+
+    (function(l) {
+      if (l.search[1] === '/' ) {
+        var decoded = l.search.slice(1).split('&').map(function(s) { 
+          return s.replace(/~and~/g, '&')
+        }).join('?');
+        window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location))
+    
+  </script>
+  
+</body>
+
+</html>
